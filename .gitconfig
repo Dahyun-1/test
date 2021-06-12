@@ -1,0 +1,8 @@
+[user]
+	name = hxqnz@fpy.me
+	email = hxqnz@fpy.me
+[gui]
+	recentrepo = C:/Users/dahyunKim/Desktop
+[filesystem "Oracle Corporation|1.8.0_191|2048457602"]
+	timestampResolution = 1001 microseconds
+	minRacyThreshold = 0 nanoseconds
